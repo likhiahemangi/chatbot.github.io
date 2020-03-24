@@ -331,6 +331,8 @@ h5{
         }
     .chat{
         margin-right: 0.5rem;
+              display: grid;
+            grid-template-columns: 2fr;
     }
     .profile{
         margin: auto;
