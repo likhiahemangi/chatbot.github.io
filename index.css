@@ -317,10 +317,10 @@ h5{
     }
     i{
         margin-top: 2rem;
-        padding-left: 1rem;
+        padding-left: 0.5rem;
         font-size: 1rem;
         text-align: center; 
-        margin-left: 1rem;;
+        margin-left: 0.8rem;;
     }
 .profilepage ,.chatbtwnppl{
         visibility: hidden;
