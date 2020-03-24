@@ -21,6 +21,10 @@ body{
     margin-bottom: 0.5rem;
     border-radius: 5%;
 }
+.chat1,.chatbtwppl{
+    display: none;
+    visibility: hidden;
+}
 i{
     margin-top: 2rem;
     padding-left: 2rem;
