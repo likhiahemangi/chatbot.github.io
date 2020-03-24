@@ -303,7 +303,7 @@ h5{
 
   @media screen and (min-width:300px) and (max-width: 700px) {
     body{
-        border: 5px solid #D8BFD8;
+        border: none;
     }
     .logo{
         width: 5rem;
